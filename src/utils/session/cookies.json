@@ -1,0 +1,16 @@
+[
+  {
+    "name": "connect.sid",
+    "value": "s%3ACPx58SAUTUOGiOBI7UlZiY5ZbYOr646d.in%2FzKgSWq0232ZIlQeAP7lDxjEoTVubxnXSuTM10p7o",
+    "domain": "wfm.pangeaco.pe",
+    "path": "/",
+    "expires": -1,
+    "size": 93,
+    "httpOnly": true,
+    "secure": true,
+    "session": true,
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "session_state",
+    "value": "0f143c85-f850-4e30-a9d4-801f8511fea5",
+    "domain": "cxmportal.pangeaco.pe",
+    "path": "/",
+    "expires": -1,
+    "size": 49,
+    "httpOnly": false,
+    "secure": true,
+    "session": true,
+    "sameSite": "Lax",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "sid",
+    "value": "ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnFkR2tpT2lKaFl6azJNRGcyTnkxbVlUUTBMVFJsTnpBdFlqTXdOUzAzTlRZM01ESmlaakF3TldJaUxDSnBZWFFpT2pFM01EVTRPRFF3T1RFc0luUjVjQ0k2SWxObGNtbGhiR2w2WldRdFNVUWlMQ0p6ZEdGMFpWOWphR1ZqYTJWeUlqb2lWVEpHYzJSSFZtdFlNUzkxYm5SS1pYRjBSRmxKSzFoaFQzSkthamg2YW5Cdkt6Um1Wak54Ym1WTE1HcFdVVkpMTkhSYWFrbzVkWEYzY3pWdU5IUnBiSEp1VVc1cWRqWXllU3RIWWtaQ1oyMTBZM2hPUnpoSU1TODFOMjh5ZVhobU0yOXpObUpYZERkMFVUVjVRV2xDYjBSd1pUaGhTMmR2UTBNMU5YcFpXRVZvU0V0NGRpczFXRkIzVlRGQ1RVdFFaM0ZoYVVzdk1tUmxjMUpIU21KWVJUZHRhbElyWm5aWE1VbzVOWEl2V1d4aFVIUXJWMFprWjNKUVNUVkxNbWRKSWl3aVpYaHdJam94TnpBMU9EZzBNVFV4ZlEuTnVpZTRpUUk3alFLOVNvQnlPdkxocFc4WG9BQ0MyVURmNmtNUFNQMEVUcw==",
+    "domain": "cxmportal.pangeaco.pe",
+    "path": "/",
+    "expires": -1,
+    "size": 671,
+    "httpOnly": true,
+    "secure": true,
+    "session": true,
+    "sameSite": "Lax",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  }
+]
