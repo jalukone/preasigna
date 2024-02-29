@@ -13,7 +13,7 @@ function App() {
     const lines = text.split('\n');
 
     // Eliminar las líneas que contienen "Expected Resolution Date"
-    const filteredLines = lines.filter(line => !line.includes("Expected Resolution Date"));
+    const filteredLines = lines.filter((line: any) => !line.includes("Expected Resolution Date"));
 
     // Convertir las líneas en pares de arrays de 2 en 2
     const result = [];
